@@ -9,5 +9,6 @@ services:
     volumes:
       - ./portfolio/dist:/usr/share/nginx/html
       - ./gallery:/usr/share/nginx/gallery
+      - ./korea-exchange:/usr/share/nginx/korea-exchange
       - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf
       - ./nginx/ssl:/etc/nginx/ssl
