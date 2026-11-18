@@ -23,7 +23,7 @@ export default function Nav() {
             photography
           </Link>
           <Link className="hide-sm" href={site.exchangeUrl}>
-            korea exchange
+            korea-exchange
           </Link>
           <ThemeToggle />
         </nav>
