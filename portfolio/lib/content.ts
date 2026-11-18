@@ -6,6 +6,7 @@ export const site = {
   github: "https://github.com/Miko-4343",
   linkedin: "https://www.linkedin.com/in/miha-kos-575422332/",
   photographyUrl: "https://gallery.kosmiha.eu",
+  exchangeUrl: "https://korea-exchange.kosmiha.eu",
   location: "Ljubljana, SI",
   school: "University of Ljubljana",
   faculty: "Faculty of Computer Science and Informatics",
