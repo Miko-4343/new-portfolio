@@ -1,0 +1,296 @@
+[
+  {
+    "id": "lj-001",
+    "src": "https://picsum.photos/seed/lj0/800/1200",
+    "width": 800,
+    "height": 1200,
+    "location": "Ljubljana"
+  },
+  {
+    "id": "lj-002",
+    "src": "https://picsum.photos/seed/lj1/1200/800",
+    "width": 1200,
+    "height": 800,
+    "location": "Ljubljana"
+  },
+  {
+    "id": "lj-003",
+    "src": "https://picsum.photos/seed/lj2/1000/1000",
+    "width": 1000,
+    "height": 1000,
+    "location": "Ljubljana"
+  },
+  {
+    "id": "lj-004",
+    "src": "https://picsum.photos/seed/lj3/900/1200",
+    "width": 900,
+    "height": 1200,
+    "location": "Ljubljana"
+  },
+  {
+    "id": "lj-005",
+    "src": "https://picsum.photos/seed/lj4/1600/900",
+    "width": 1600,
+    "height": 900,
+    "location": "Ljubljana"
+  },
+  {
+    "id": "lj-006",
+    "src": "https://picsum.photos/seed/lj5/800/1200",
+    "width": 800,
+    "height": 1200,
+    "location": "Ljubljana"
+  },
+  {
+    "id": "lj-007",
+    "src": "https://picsum.photos/seed/lj6/1200/800",
+    "width": 1200,
+    "height": 800,
+    "location": "Ljubljana"
+  },
+  {
+    "id": "se-001",
+    "src": "https://picsum.photos/seed/se0/1000/1000",
+    "width": 1000,
+    "height": 1000,
+    "location": "Seoul"
+  },
+  {
+    "id": "se-002",
+    "src": "https://picsum.photos/seed/se1/900/1200",
+    "width": 900,
+    "height": 1200,
+    "location": "Seoul"
+  },
+  {
+    "id": "se-003",
+    "src": "https://picsum.photos/seed/se2/1600/900",
+    "width": 1600,
+    "height": 900,
+    "location": "Seoul"
+  },
+  {
+    "id": "se-004",
+    "src": "https://picsum.photos/seed/se3/800/1200",
+    "width": 800,
+    "height": 1200,
+    "location": "Seoul"
+  },
+  {
+    "id": "se-005",
+    "src": "https://picsum.photos/seed/se4/1200/800",
+    "width": 1200,
+    "height": 800,
+    "location": "Seoul"
+  },
+  {
+    "id": "se-006",
+    "src": "https://picsum.photos/seed/se5/1000/1000",
+    "width": 1000,
+    "height": 1000,
+    "location": "Seoul"
+  },
+  {
+    "id": "se-007",
+    "src": "https://picsum.photos/seed/se6/900/1200",
+    "width": 900,
+    "height": 1200,
+    "location": "Seoul"
+  },
+  {
+    "id": "se-008",
+    "src": "https://picsum.photos/seed/se7/1600/900",
+    "width": 1600,
+    "height": 900,
+    "location": "Seoul"
+  },
+  {
+    "id": "bl-001",
+    "src": "https://cdn.kosmiha.eu/Belgium/1.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Belgium"
+  },
+  {
+    "id": "bl-002",
+    "src": "https://cdn.kosmiha.eu/Belgium/Brugges.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Belgium"
+  },
+  {
+    "id": "bl-003",
+    "src": "https://cdn.kosmiha.eu/Belgium/Brugges5.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Belgium"
+  },
+  {
+    "id": "bl-004",
+    "src": "https://cdn.kosmiha.eu/Belgium/Brugges7.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Belgium"
+  },
+  {
+    "id": "bl-005",
+    "src": "https://cdn.kosmiha.eu/Belgium/Brugges8.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Belgium"
+  },
+  {
+    "id": "bl-006",
+    "src": "https://cdn.kosmiha.eu/Belgium/Hogwarts.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Belgium"
+  },
+  {
+    "id": "bl-007",
+    "src": "https://cdn.kosmiha.eu/Belgium/View.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Belgium"
+  },
+  {
+    "id": "cz-001",
+    "src": "https://cdn.kosmiha.eu/Czech/Car.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Czech-Republic"
+  },
+  {
+    "id": "cz-002",
+    "src": "https://cdn.kosmiha.eu/Czech/Castle.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Czech-Republic"
+  },
+  {
+    "id": "cz-003",
+    "src": "https://cdn.kosmiha.eu/Czech/Church.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Czech-Republic"
+  },
+  {
+    "id": "cz-004",
+    "src": "https://cdn.kosmiha.eu/Czech/Church2.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Czech-Republic"
+  },
+  {
+    "id": "cz-005",
+    "src": "https://cdn.kosmiha.eu/Czech/PraskaVrata.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Czech-Republic"
+  },
+  {
+    "id": "cz-006",
+    "src": "https://cdn.kosmiha.eu/Czech/View.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Czech-Republic"
+  },
+  {
+    "id": "cz-007",
+    "src": "https://cdn.kosmiha.eu/Czech/View2.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Czech-Republic"
+  },
+  {
+    "id": "cz-008",
+    "src": "https://cdn.kosmiha.eu/Czech/View3.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Czech-Republic"
+  },
+  {
+    "id": "fi-001",
+    "src": "https://cdn.kosmiha.eu/Finland/Church.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-002",
+    "src": "https://cdn.kosmiha.eu/Finland/Church2.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-003",
+    "src": "https://cdn.kosmiha.eu/Finland/Cover.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-004",
+    "src": "https://cdn.kosmiha.eu/Finland/Panorama.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-005",
+    "src": "https://cdn.kosmiha.eu/Finland/Plane.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-006",
+    "src": "https://cdn.kosmiha.eu/Finland/Plane2.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-007",
+    "src": "https://cdn.kosmiha.eu/Finland/Room.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-008",
+    "src": "https://cdn.kosmiha.eu/Finland/SkiJump.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-009",
+    "src": "https://cdn.kosmiha.eu/Finland/Stadium.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-010",
+    "src": "https://cdn.kosmiha.eu/Finland/Walkway.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-011",
+    "src": "https://cdn.kosmiha.eu/Finland/Water.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  },
+  {
+    "id": "fi-012",
+    "src": "https://cdn.kosmiha.eu/Finland/Water2.jpeg",
+    "width": 900,
+    "height": 1200,
+    "location": "Finland"
+  }
+]
