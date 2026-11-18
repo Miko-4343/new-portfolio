@@ -648,3 +648,50 @@ p {
 body:has(dialog[open]) {
   overflow: hidden;
 }
+
+.privacy-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 4px;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  opacity: 0.85;
+}
+
+.privacy-box p {
+  margin: 0;
+}
+
+.privacy-check {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  cursor: pointer;
+  color: #38b753;
+  margin: 0;
+}
+
+.privacy-check input[type="checkbox"] {
+  width: 15px;
+  height: 15px;
+  min-width: 15px;
+  margin: 0;
+  accent-color: #38b753;
+  cursor: pointer;
+}
+
+.form-status {
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.form-status.is-success {
+  color: #38b753;
+}
+
+.form-status.is-error {
+  color: #ff6b6b;
+}
